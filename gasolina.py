@@ -8,4 +8,4 @@ gasto = float(input("Digite a quantidade de quilômetros que seu carro faz por l
 
 litros = distancia/gasto
 
-print(f"É preciso abastercer o carro com {litros:.2f}L para percorrer a distência dada.")
+print(f"É preciso abastercer o carro com {litros:.2f}L para percorrer a distância dada.")
